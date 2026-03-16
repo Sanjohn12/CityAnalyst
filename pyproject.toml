@@ -1,0 +1,18 @@
+[project]
+name = "cityanalyst-react"
+version = "0.1.0"
+description = "Urban Intelligence & 15-Minute City Analysis React Library"
+authors = [
+    { name = "Sanojan", email = "" }
+]
+license = { text = "MIT" }
+readme = "README.md"
+keywords = ["urban-planning", "15-minute-city", "geospatial", "analysis"]
+
+[project.urls]
+Homepage = "https://tiny-sunflower-26d445.netlify.app/"
+Repository = "https://github.com/Sanjohn12/CityAnalyst.git"
+
+[tool.ruff]
+line-length = 88
+select = ["E", "F", "W", "I"]
