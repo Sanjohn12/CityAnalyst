@@ -106,4 +106,8 @@ CityAnalyst is more than a map; it's a methodology. Explore our guides:
 ## 📄 License & Legal
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-Designed and Developed by **Sanojan**.
+Designed and Developed by **Sanojan Selvarajah**.
+
+---
+
+SANOJAN SELVARAJAH (2026), SMARTMIND RESEARCH GROUP, URBAN SIMULATION LAB, DEPARTMENT OF TOWN & COUNTRY PLANNING, UNIVERSITY OF MORATUWA, SRI LANKA, GUIDE BY **AMILA JAYASINGHE**, DEPARTMENT OF TOWN AND PLANNING, UNIVERSITY OF MORATUWA SRI LANKA.
